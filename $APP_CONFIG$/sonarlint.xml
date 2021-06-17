@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9cdf99dfc8df92df99df9adf92df93df9bdf9bdf93df9edfccdf93df99df99dfc8df9cdfcfdf9bdf9bdf9edfcbdf99dfcbdf9adf93df9bdfc9df9adfcedf9ddfcfdf92df98df99dfc8df9fdfccdf9f</token>
+          <option name="name" value="katalon" />
+          <organizationKey>katalon-studio</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
